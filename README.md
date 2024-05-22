@@ -1,3 +1,5 @@
+# Vision Based Pick & Place Workflow
+
 Hello, this project was under-taken by Syed Asghar Abbas Zaidi, Huzaifah Tariq Ahmed and Daniyal Rahim as part of their "Introduction to Robotics" Course offered at Habib University by Dr. Basit Memon in Spring 2024 in Pakistan, Karachi. 
 
 The entire overview of this project is written in "Final Report", but aside of that, most of the labs' have their seperate folders and are labelled on what they were about, 

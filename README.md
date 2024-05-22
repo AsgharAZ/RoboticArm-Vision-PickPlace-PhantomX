@@ -4,3 +4,10 @@ The entire overview of this project is written in "Final Report", but aside of t
 and most of their codes has been uploaded respectively as well. The reports have code as well as explanation as well, but we have also uploaded code in .mlx or .m format as well.
 
 Aside of that, further queries can be messaged at Asghar s.aazaidi2001@gmail.com, Daniyal d07605@st.habib.edu.pk, Huzaifah huzihunter2782@yahoo.com, Dr. Basit Memon basit.memon@sse.habib.edu.pk
+
+---
+
+### Contributors
+- [Syed Asghar Abbas Zaidi](https://github.com/AsgharAZ)
+- [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed)
+- [Daniyal Rahim Areshia]

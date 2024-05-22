@@ -1,4 +1,4 @@
-# Vision Based Pick & Place Workflow
+# Vision Based Pick & Place Workflow of Phantom X Pincher Arm
 
 Hello, this project was under-taken by Syed Asghar Abbas Zaidi, Huzaifah Tariq Ahmed and Daniyal Rahim as part of their "Introduction to Robotics" Course offered at Habib University by Dr. Basit Memon in Spring 2024 in Pakistan, Karachi. 
 

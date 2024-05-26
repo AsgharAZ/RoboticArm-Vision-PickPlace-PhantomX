@@ -14,4 +14,4 @@ Aside of that, further queries can be messaged at Asghar s.aazaidi2001@gmail.com
 ### Contributors
 - [Syed Asghar Abbas Zaidi](https://github.com/AsgharAZ)
 - [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed)
-- Daniyal Rahim Areshia
+- [Daniyal Rahim Areshia](https://github.com/Daniyal-R-A)
